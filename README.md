@@ -1,5 +1,5 @@
 # Pipeline_Project_Hillary_Dapsauski
-# Bioinformatics Pipeline Documentation
+## Bioinformatics Pipeline Documentation
 
 ## Required Dependencies
 
@@ -62,5 +62,4 @@ mkdir original_data && mv SRR*.fastq original_data/
 
 ---
 
-This documentation serves as an initial guide for setting up and preparing data for the bioinformatics pipeline. Additional steps will follow for transcriptome analysis, mapping, assembly, and annotation.
 
