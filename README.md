@@ -62,7 +62,7 @@ mkdir original_data && mv SRR*.fastq original_data/
 
 ## Running the pipeline 
 
-To run the pipeline use the following lines of code within the terminal. If you wish to use the original datatest for running the pipeline change the -i to reflect this. 
+To run the pipeline use the following lines of code within the terminal. If you wish to use the original datatest for running the pipeline change the input directory to reflect this. Make sure to run the pipeline within the directory called Pipeline_Project_Hillary_Dapsauski or else this will not function properly! 
 
 ```bash
 git clone https://github.com/h-dapsauski/Pipeline_Project_Hillary_Dapsauski
