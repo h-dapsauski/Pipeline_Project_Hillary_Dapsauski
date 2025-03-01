@@ -60,6 +60,17 @@ All original FASTQ files were moved to a separate directory named **original_dat
 mkdir original_data && mv SRR*.fastq original_data/
 ```
 
+## Running the pipeline 
+
+To run the pipeline use the following lines of code within the terminal. If you wish to use the original datatest for running the pipeline change the -i to reflect this. 
+
+```bash
+git clone https://github.com/h-dapsauski/Pipeline_Project_Hillary_Dapsauski
+
+cd Pipeline_Project_Hillary_Dapsauski
+
+python3 wrapper2.0.py -i sample_data
+```
 ---
 
 
